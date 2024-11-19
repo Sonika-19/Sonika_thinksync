@@ -23,7 +23,7 @@ const Profile = () => {
           {/* Other profile details */}
         </div>
       ) : (
-        <p>Loading profile...</p>
+        <p>Profile not found</p>
       )}
     </div>
   );
